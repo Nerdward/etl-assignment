@@ -11,7 +11,6 @@ id, date, author, publisher, category, text
 ```
 
 The datatypes of the columns are: 
-
 id - int,
 
 date - datetime,
