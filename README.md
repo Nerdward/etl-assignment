@@ -11,11 +11,11 @@ id, date, author, publisher, category, text
 ```
 
 The datatypes of the columns are 
-id - int
-date - datetime
-author - string
-publisher - string
-category -  string
+id - int,
+date - datetime,
+author - string,
+publisher - string,
+category -  string,
 text - string
 
 The Amazon Cloudwatch alarms is used to trigger lambda script daily.
